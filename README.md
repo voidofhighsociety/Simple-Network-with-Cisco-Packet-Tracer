@@ -1,20 +1,21 @@
 <h1>Simple Network with Cisco Packet Tracer</h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
 <h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+In this cybersecurity lab, we will design and configure a home network in Cisco Packet Tracer to connect a Home Office to a Home Entertainment system. The network will consist of two sections, each featuring multiple end devices, including computers and smart devices, interconnected through a router and two switches. All interfaces will be configured with appropriate IP addresses, subnet masks, and gateways. The devices will be connected using suitable Ethernet cables, and we will conduct connectivity tests to ensure successful communication between the Home Office and Home Entertainment, allowing clients to ping one another effectively.
+
+
+
 <br />
 
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
+- <b>Cisco IOS CLI</b> 
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b> (21H2)
+- <b>Cisco Packet Tracer Virtual Lab</b>
 
 <h2>Program walk-through:</h2>
 

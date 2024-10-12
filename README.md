@@ -20,8 +20,8 @@ In this cybersecurity lab, we will design and configure a home network in Cisco 
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Launch Cisco Packet Tracer and select home router and two switches labeling the two subnets: <br/>
+<img src="https://imgur.com/a/xGtOmoo"height="80%" width="80%" alt="Network Setup Steps"/>
 <br />
 <br />
 Select the disk:  <br/>

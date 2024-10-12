@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-In this cybersecurity lab, we will design and configure a home network in Cisco Packet Tracer to connect a Home Office to a Home Entertainment system. The network will consist of two sections, each featuring multiple end devices, including computers and smart devices, interconnected through a router and two switches. All interfaces will be configured with appropriate IP addresses, subnet masks, and gateways. The devices will be connected using suitable Ethernet cables, and we will conduct connectivity tests to ensure successful communication between the Home Office and Home Entertainment, allowing clients to ping one another effectively.
+In this lab, I will design and configure a simple home network in Cisco Packet Tracer with two subnets labeled Home Office and Home Entertainment. Each subnet will feature multiple end devices, including computers and printers, interconnected through a router and two switches. All interfaces will be configured with appropriate IP addresses, subnet masks, and gateways. The devices will be connected using suitable Ethernet cables, and I will conduct connectivity tests to ensure successful communication between the Home Office and Home Entertainment, allowing clients to ping one another effectively.
 
 
 
@@ -20,40 +20,31 @@ In this cybersecurity lab, we will design and configure a home network in Cisco 
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch Cisco Packet Tracer and select home router and two switches labeling the two subnets: <br/>
-<img src="https://i.imgur.com/a/xGtOmoo.png" height="80%" width="80%" alt="Network Setup Steps"/>
+Launch Cisco Packet Tracer and select home router and two switches labeling the two subnets Home Entertainment and Home Office: <br/>
+<img src="https://i.imgur.com/JF1bUBX.png" height="80%" width="80%" alt="Network Setup Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Add end devices to be used in the seperate subnets:  <br/>
+<img src="https://i.imgur.com/FCnxlr9.png" height="80%" width="80%" alt="Network Setup Steps Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Select proper cables and connect all devices: <br/>
+<img src="https://i.imgur.com/OZGr3Ug.png" height="80%" width="80%" alt="Network Setup Steps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Complete network topology and begin assigning IP addresses, proper subnets and gateways with router:  <br/>
+<img src="https://i.imgur.com/uqTGRYj.png" height="80%" width="80%" alt="Network Setup Steps"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Use IOS CLI to configure router:  <br/>
+<img src="https://i.imgur.com/iXLEi9R.png" height="80%" width="80%" alt="Network Setup Steps"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Assign Ip addresses, Subnet masks, and gateways to end devices:  <br/>
+<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Network Setup Steps"/>
+ <br />
 <br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Use command prompt to test connectivity of end devices across networks:  <br/>
+<img src="https://i.imgur.com/QmTl9mo.png" height="80%" width="80%" alt="Network Setup Steps"/>
 </p>
 
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>

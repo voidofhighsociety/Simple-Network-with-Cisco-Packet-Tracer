@@ -41,7 +41,7 @@ Use IOS CLI to configure router:  <br/>
 <br />
 <br />
 Assign Ip addresses, Subnet masks, and gateways to end devices:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Network Setup Steps"/>
+<img src="https://i.imgur.com/7QjF647.png" height="80%" width="80%" alt="Network Setup Steps"/>
  <br />
 <br />
 Use command prompt to test connectivity of end devices across networks:  <br/>

@@ -21,7 +21,7 @@ In this cybersecurity lab, we will design and configure a home network in Cisco 
 
 <p align="center">
 Launch Cisco Packet Tracer and select home router and two switches labeling the two subnets: <br/>
-<img src="https://imgur.com/a/xGtOmoo"height="80%" width="80%" alt="Network Setup Steps"/>
+<img src="https://i.imgur.com/a/xGtOmoo.png" height="80%" width="80%" alt="Network Setup Steps"/>
 <br />
 <br />
 Select the disk:  <br/>

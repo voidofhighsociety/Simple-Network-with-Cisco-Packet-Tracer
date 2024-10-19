@@ -25,7 +25,7 @@ Launch Cisco Packet Tracer and select home router and two switches labeling the 
 <br />
 <br />
 Add end devices to be used in the seperate subnets:  <br/>
-<img src="https://i.imgur.com/FCnxlr9.png" height="80%" width="80%" alt="Network Setup Steps Steps"/>
+<img src="https://i.imgur.com/FCnxlr9.png" height="80%" width="80%" alt="Network Setup Steps"/>
 <br />
 <br />
 Select proper cables and connect all devices: <br/>
